@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620239425 source:c:\users\federico\documents\unicen\algoritmos i\2021\tpe\ranking\main.cpp
+	<iostream>
+	<fstream>
+
