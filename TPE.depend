@@ -1,0 +1,172 @@
+# depslib dependency file v1.0
+1621194504 source:/home/delfina/Documentos/CodeBlocks/TPE/Empleado.cpp
+	"Empleado.h"
+
+1621194504 h"
+
+1621194383 /home/delfina/Documentos/CodeBlocks/TPE/Empleado.h
+	<string>
+
+1622303419 
+
+1621205734 source:/home/delfina/Documentos/CodeBlocks/TPE/Empresa.cpp
+	"Empresa.h"
+
+1622303712 "
+
+1621205742 /home/delfina/Documentos/CodeBlocks/TPE/Empresa.h
+	<string>
+
+1621206011 source:/home/delfina/Documentos/CodeBlocks/TPE/main.cpp
+	<iostream>
+	<fstream>
+	"Empresa.h"
+	"Ranking.h"
+
+1621205988 source:/home/delfina/Documentos/CodeBlocks/TPE/Ranking.cpp
+	"Ranking.h"
+	<iostream>
+
+1621205974 /home/delfina/Documentos/CodeBlocks/TPE/Ranking.h
+	"Empresa.h"
+
+1622059945 source:/home/delfina/Dropbox/Xime TPE/TPE/Empresa.cpp
+	"Empresa.h"
+	<string>
+
+1622300148 /home/delfina/Dropbox/Xime TPE/TPE/Empresa.h
+	<string>
+
+1622303316 source:/home/delfina/Dropbox/Xime TPE/TPE/main.cpp
+	<iostream>
+	<fstream>
+	"Empresa.h"
+	"Ranking.h"
+
+1622303278 /home/delfina/Dropbox/Xime TPE/TPE/Ranking.h
+	"Empresa.h"
+	"Coleccion.h"
+
+1622303278 .h"
+
+1622303419 source:/home/delfina/Dropbox/Xime TPE/TPE/Ranking.cpp
+	"Ranking.h"
+	"Empresa.h"
+	<iostream>
+
+1622300481 source:/home/delfina/Dropbox/Xime TPE/TPE/Coleccion.cpp
+	"Coleccion.h"
+	"Empresa.h"
+	<iostream>
+
+1622300523 /home/delfina/Dropbox/Xime TPE/TPE/Coleccion.h
+
+1622300481 source:c:\users\dell\dropbox\tpe ayda\tpe\coleccion.cpp
+	"Coleccion.h"
+	"Empresa.h"
+	<iostream>
+
+1622300523 c:\users\dell\dropbox\tpe ayda\tpe\coleccion.h
+
+1622300148 c:\users\dell\dropbox\tpe ayda\tpe\empresa.h
+	<string>
+
+1622059945 source:c:\users\dell\dropbox\tpe ayda\tpe\empresa.cpp
+	"Empresa.h"
+	<string>
+
+1622303712 source:c:\users\dell\dropbox\tpe ayda\tpe\main.cpp
+	<iostream>
+	<fstream>
+	"Empresa.h"
+	"Ranking.h"
+
+1622303278 c:\users\dell\dropbox\tpe ayda\tpe\ranking.h
+	"Empresa.h"
+	"Coleccion.h"
+
+1622303419 source:c:\users\dell\dropbox\tpe ayda\tpe\ranking.cpp
+	"Ranking.h"
+	"Empresa.h"
+	<iostream>
+
+1622341943 source:/home/delfina/Dropbox/Xime TPE/TPE/Empresa.cpp
+	"Empresa.h"
+	<string>
+
+1622300148 /home/delfina/Dropbox/Xime TPE/TPE/Empresa.h
+	<string>
+
+1622344333 source:/home/delfina/Dropbox/Xime TPE/TPE/main.cpp
+	<iostream>
+	<fstream>
+	<stdio_ext.h>
+	"Empresa.h"
+	"Ranking.h"
+
+1622333891 /home/delfina/Dropbox/Xime TPE/TPE/Ranking.h
+	"Empresa.h"
+	"Coleccion.h"
+
+1622333852 /home/delfina/Dropbox/Xime TPE/TPE/Coleccion.h
+
+1622333860 source:/home/delfina/Dropbox/Xime TPE/TPE/Coleccion.cpp
+	"Coleccion.h"
+	"Empresa.h"
+	<iostream>
+
+1622343234 source:/home/delfina/Dropbox/Xime TPE/TPE/Ranking.cpp
+	"Ranking.h"
+	"Empresa.h"
+	<iostream>
+
+1624916376 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/Empresa.cpp
+	"Empresa.h"
+	<string>
+
+1622300148 /home/delfina/Dropbox/Xime TPE/TPE (copia)/Empresa.h
+	<string>
+
+1624403929 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/Coleccion.cpp
+	"Coleccion.h"
+	"Empresa.h"
+	<iostream>
+	<assert.h>
+
+1624472763 /home/delfina/Dropbox/Xime TPE/TPE (copia)/Coleccion.h
+
+1624918446 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/main.cpp
+	<iostream>
+	<fstream>
+	<stdio_ext.h>
+	"Empresa.h"
+	"Ranking.h"
+	"PST.h"
+	"NodoPST.h"
+
+1624915136 /home/delfina/Dropbox/Xime TPE/TPE (copia)/Ranking.h
+	"Empresa.h"
+	"Coleccion.h"
+
+1624917514 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/Ranking.cpp
+	"Ranking.h"
+	"Empresa.h"
+	<iostream>
+
+1624996803 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/PST.cpp
+	"PST.h"
+	"Ranking.h"
+	<iostream>
+	"Empresa.h"
+
+1624996668 /home/delfina/Dropbox/Xime TPE/TPE (copia)/PST.h
+	"Ranking.h"
+	"NodoPST.h"
+	"Coleccion.h"
+
+1624916684 source:/home/delfina/Dropbox/Xime TPE/TPE (copia)/NodoPST.cpp
+	"NodoPST.h"
+	<iostream>
+
+1624916263 /home/delfina/Dropbox/Xime TPE/TPE (copia)/NodoPST.h
+
